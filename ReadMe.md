@@ -1,19 +1,18 @@
-# 💫 About Me:
+##  About Me
 
-I’m a pre-final year Computer Science undergraduate at **Manipal Institute of Technology, Bengaluru**. I engineer software at the intersection of scalable distributed backends, robust full-stack systems, and autonomous Agentic AI. 
+I’m a **pre-final year Computer Science undergraduate at Manipal Institute of Technology, Bengaluru**, interested in building **scalable software and intelligent systems**.
 
-### 🌌 Beyond the Code
-Deeply fascinated by quantum physics, quantum computing, and finding ways to use advanced technology to accelerate growth in non-CS domains. I love exploring niche areas and figuring out how to innovate them from the ground up.
+I enjoy working across **Full-Stack Development, Backend Engineering, AI/ML, and Agentic AI**, with a focus on turning ideas into practical, well-engineered solutions.
 
-### 🦉 The Workflow
-I'm a certified coding owl. Powered by caffeine, I do my best architectural thinking and system building when the rest of the world is asleep.
+### Currently Exploring
 
-### ♟️ Casual Side
-A massive fan of chess, though my enthusiasm for the game currently vastly outweighs my actual ELO rating. 
+*  **Agentic AI & Applied AI/ML**
+*  **Full-Stack & Backend Engineering**
+*  **System Design & Scalable Applications**
+*  **Emerging Technologies & Experimental Projects**
 
----
+*I’m always looking to learn something new, build something useful, and understand how things work beyond the surface.*
 
-> **My Philosophy:** I want to build things that inspire people to drop mindless consumption and fall in love with the actual process of creation. Let's build something **AWESOME**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/parthav-udayasankar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthav.tech@gmail.com) 
